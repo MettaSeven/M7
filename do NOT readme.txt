@@ -21,9 +21,9 @@ Sorry to make this more dificult for you, but this mod only works on "Friday Nig
 Modding Plus" at the moment. Until I can figure out how to make it run properly on the main game,
 you're gonna have to download FNFM+ first.
 
-to instal this mod, take the assets folder and drag it to the
-same folder your game is located. You PC will probably ask if you want to replace stuff,
-go ahead and say yes.
+to instal this mod, take the data, fonts, images, music, scripts, and sounds folders into a new
+folder and name it "assets". Then make sure that the assets folder is in the same folder that
+this text file is in (should just be called "Odd Future Funkin Mod DEMO")
 
 now you're good to go.
 go read the other txt thing if you care about the story/updates or whatever.
